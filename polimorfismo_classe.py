@@ -14,7 +14,7 @@ class Gato(Animal):
         print('Miau!')    
 
 
-
+self
 cachorro = Cachorro()
 cachorro.emitir_som()
 
